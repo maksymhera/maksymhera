@@ -64,8 +64,8 @@ Results-driven Data Analyst based in Warsaw, Poland. Experienced in building end
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="streamlit" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="databricks" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikitlearn" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="tableau" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikitlearn" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="powerbi" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="tableau" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="google" width="40" height="40"/>
 </p>
