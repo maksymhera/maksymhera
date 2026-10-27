@@ -1,15 +1,15 @@
 # Hi 👋, I'm Maksym Herasymiuk (maksymhera)
 
 ### 📊 Data Analyst & Analytics Engineer
-Results-driven Data Analyst based in Warsaw, Poland[cite: 12]. Experienced in building end-to-end ETL pipelines, automated reporting systems, interactive dashboards (Power BI & Streamlit), and AI-assisted analytics tools[cite: 12].
+Results-driven Data Analyst based in Warsaw, Poland. Experienced in building end-to-end ETL pipelines, automated reporting systems, interactive dashboards (Power BI & Streamlit), and AI-assisted analytics tools.
 
 ---
 
 ### 💼 Career & Education Brief
-- 🎓 **Education**: Data Analytics at **Uniwersytet Civitas** (Warsaw, Poland)[cite: 12]
-- 📍 **Location**: Warsaw, Poland[cite: 12]
-- ✉️ **Email**: [maksym.herasymiuk1@gmail.com](mailto:maksym.herasymiuk1@gmail.com)[cite: 12]
-- 💼 **LinkedIn**: [Maksym Herasymiuk](https://www.linkedin.com/in/maksym-herasymiuk-258ab6325/)[cite: 12]
+- 🎓 **Education**: Data Analytics at **Uniwersytet Civitas** (Warsaw, Poland)
+- 📍 **Location**: Warsaw, Poland
+- ✉️ **Email**: [maksym.herasymiuk1@gmail.com](mailto:maksym.herasymiuk1@gmail.com)
+- 💼 **LinkedIn**: [Maksym Herasymiuk](https://www.linkedin.com/in/maksym-herasymiuk-258ab6325/)
 - 🏆 **Kaggle**: [maksymherasymiuk1](https://www.kaggle.com/maksymherasymiuk1)
 
 ---
@@ -37,9 +37,9 @@ Results-driven Data Analyst based in Warsaw, Poland[cite: 12]. Experienced in bu
 
 ### 🚀 Key Projects & Systems
 
-- 🏢 **SMB Operating System**: Business Data Hub featuring No-Code Excel/CSV import, automated data cleaning, PostgreSQL data storage, and Streamlit Executive Overview with AI Copilot[cite: 12].
-- 🛍️ **E-Commerce Accounting Bot**: Automated sales logging and bookkeeping bot integrated with Google Sheets API, aiogram, and Telegram (deployed via DigitalOcean & systemd)[cite: 12].
-- 🎰 **Casino Compliance Analytics**: Medallion architecture (Bronze/Silver/Gold) in Databricks (Unity Catalog) with risk-rule engines and full data lineage[cite: 12].
+- 🏢 **SMB Operating System**: Business Data Hub featuring No-Code Excel/CSV import, automated data cleaning, PostgreSQL data storage, and Streamlit Executive Overview with AI Copilot.
+- 🛍️ **E-Commerce Accounting Bot**: Automated sales logging and bookkeeping bot integrated with Google Sheets API, aiogram, and Telegram (deployed via DigitalOcean & systemd).
+- 🎰 **Casino Compliance Analytics**: Medallion architecture (Bronze/Silver/Gold) in Databricks (Unity Catalog) with risk-rule engines and full data lineage.
 
 ---
 
@@ -76,5 +76,5 @@ Results-driven Data Analyst based in Warsaw, Poland[cite: 12]. Experienced in bu
 </p>
 
 #### **Data Governance & Quality Focus**
-- 🛡️ **Data Quality & Lineage**: Source-to-target reconciliation, deduplication, reject-reason logging, Data Dictionaries, KPI Monitoring[cite: 12].
-- 📐 **Data Modeling**: Star-schema modeling, CTEs, Window Functions, Database Views[cite: 12].
+- 🛡️ **Data Quality & Lineage**: Source-to-target reconciliation, deduplication, reject-reason logging, Data Dictionaries, KPI Monitoring.
+- 📐 **Data Modeling**: Star-schema modeling, CTEs, Window Functions, Database Views.
