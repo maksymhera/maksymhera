@@ -38,17 +38,18 @@ Results-driven Data Analyst based in Warsaw, Poland. Experienced in building end
 ### 🚀 Key Projects & Systems
 
 - 🏢 **SMB Operating System**: Business Data Hub featuring No-Code Excel/CSV import, automated data cleaning, PostgreSQL data storage, and Streamlit Executive Overview with AI Copilot.
-- 🛍️ **E-Commerce Accounting Bot**: Automated sales logging and bookkeeping bot integrated with Google Sheets API and Telegram.
-- 🎰 **Casino Compliance Analytics**: Medallion architecture (Bronze/Silver/Gold) in Databricks with risk-rule engines and full data lineage.
+- 🛍️ **E-Commerce Accounting Bot**: Automated sales logging and bookkeeping bot integrated with Google Sheets API, aiogram, and Telegram (deployed via DigitalOcean & systemd).
+- 🎰 **Casino Compliance Analytics**: Medallion architecture (Bronze/Silver/Gold) in Databricks (Unity Catalog) with risk-rule engines and full data lineage.
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ Languages, Tools & Frameworks
 
-#### **Core & Data Engineering**
+#### **Programming, Data Engineering & Databases**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="tsql" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy" />
@@ -57,15 +58,18 @@ Results-driven Data Analyst based in Warsaw, Poland. Experienced in building end
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="fastapi" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" />
+  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="digitalocean" />
 </p>
 
-#### **BI, Analytics, Cloud & Data Science**
+#### **BI, Analytics, Cloud & AI-Assisted Tools**
 <p>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="streamlit" />
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="databricks" />
   <img src="https://img.shields.io/badge/Power_BI-F2C94C?style=for-the-badge&logo=powerbi&logoColor=black" alt="powerbi" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="tableau" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="excel" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="jupyter" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="google" />
+  <img src="https://img.shields.io/badge/Google_Drive_&_Sheets_API-4285F4?style=for-the-badge&logo=googlesheets&logoColor=white" alt="googlesheets" />
+  <img src="https://img.shields.io/badge/Groq_&_Gemini_LLMs-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="llm" />
 </p>
